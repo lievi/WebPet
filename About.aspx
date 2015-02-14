@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Teste com implementação GitHub</h3>
+    <h3>Batata</h3>
     <p>Use this area to provide additional information.</p>
 </asp:Content>
